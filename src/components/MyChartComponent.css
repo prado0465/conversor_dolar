@@ -1,0 +1,35 @@
+.chart-container {
+    width: 100%; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .chart-title {
+    text-align: center; 
+    font-size: 1.5em; 
+    margin-bottom: 20px; 
+    color: #333; 
+  }
+  
+  .apexcharts-xaxis-label {
+    font-size: 12px; 
+    color: #666; 
+  }
+  
+  .apexcharts-yaxis-label {
+    font-size: 12px; 
+    color: #666; 
+  }
+  
+  .apexcharts-tooltip {
+    background: #fff; 
+    color: #333;
+    padding: 10px; 
+    border-radius: 4px; 
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); 
+  }
+  
